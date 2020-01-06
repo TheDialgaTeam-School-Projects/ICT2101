@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrambledTasks</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaW5maW9sZSIsImEiOiJjazF2eHY2YXcwOThpM2lvNHEzOGFldmM0In0.gz29cPkaQLgaMs9hP_RiKQ</string>
+</resources>

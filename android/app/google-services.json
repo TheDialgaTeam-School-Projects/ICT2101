@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994609579242",
+    "firebase_url": "https://scrambled-tasks.firebaseio.com",
+    "project_id": "scrambled-tasks",
+    "storage_bucket": "scrambled-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994609579242:android:03604332e74b1fb2a7c393",
+        "android_client_info": {
+          "package_name": "com.scrambledtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994609579242-72gutnhpoup0jc6l13fetqvnkij4phjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-6W0ZeBDDRr9zxRppgO4CYXJZZKLjUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994609579242-72gutnhpoup0jc6l13fetqvnkij4phjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994609579242-fq7h7i71kj0flrup7u9afj7qbfs0dck0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ScrambledTasks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
